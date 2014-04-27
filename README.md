@@ -1,4 +1,4 @@
 foundation-grunt
 ================
 
-Grunt files for new Foundation projects
+Grunt files and folders for scaffolding new Foundation projects
